@@ -1,0 +1,19 @@
+{
+  "name": "517assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revanthveeranki2392/517assignment.git"
+  },
+  "author": "revanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revanthveeranki2392/517assignment/issues"
+  },
+  "homepage": "https://github.com/revanthveeranki2392/517assignment#readme",
+  "description": ""
+}
